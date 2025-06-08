@@ -14,4 +14,5 @@
 - [Zayıf Sayısı Hesaplama](https://github.com/SelcanTaylan/Python/tree/main/zayif_sayisi_hesaplama)
 - [Ortalama Hesaplama](https://github.com/SelcanTaylan/Python/tree/main/ortalama)
 - [Sayıların Toplamı Çift mi Tek mi](https://github.com/SelcanTaylan/Python/tree/main/cift_mi_tek_mi)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+<br><br>
