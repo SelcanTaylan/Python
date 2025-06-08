@@ -1,6 +1,8 @@
 <!--Height-->
 <!--Italic-->
 # Python
+<img align='right' src='https://github.com/SelcanTaylan/Python/blob/main/gif2.gif' width='300'>
+
 - [Kullanıcıdan Alınan Sayıyla Bölme İşlemi](https://github.com/SelcanTaylan/Python/tree/main/bolme)
 - [Kullanıcıdan Alınan Sayıyla Çarpma İşlemi](https://github.com/SelcanTaylan/Python/tree/main/carpma)
 - [Kullanıcıdan Alınan Sayıyla Toplama İşlemi](https://github.com/SelcanTaylan/Python/tree/main/toplama)
